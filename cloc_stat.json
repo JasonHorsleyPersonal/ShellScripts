@@ -1,0 +1,19 @@
+
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.70",
+  "elapsed_seconds"    : 0.0135250091552734,
+  "n_files"            : 1,
+  "n_lines"            : 48,
+  "files_per_second"   : 73.9371033704696,
+  "lines_per_second"   : 3548.98096178254},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 2,
+  "code": 42},
+"SUM": {
+  "blank": 4,
+  "comment": 2,
+  "code": 42,
+  "nFiles": 1} }
